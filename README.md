@@ -1,4 +1,4 @@
-# Interpretable Machine Learning and Deep Learning Models for High Throughput Prediction of PAMPA Permeability
+# Interpretable Machine Learning and Graph Attention Network based Model for Predicting PAMPA Permeability
 A curated dataset of 5447 compounds with PAMPA permeability scores (in a scale 10-6 cm/sec) was used to train and validate these models. Analysis showed that the random forest-based model outperformed all others with an accuracy of 81% and AUC score 0.86, followed by EBM (80%) and Adaboost (76%).
 An external dataset was used to screen the predictive capability of these models and results showed that random forest still outperformed with an accuracy of 91% followed by EBM (90%) and Adaboost (89%).
 
